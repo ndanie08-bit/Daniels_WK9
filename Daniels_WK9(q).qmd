@@ -1,0 +1,14 @@
+---
+title: " WK 9 Social Network"
+author: Natalie Daniels
+format: typst
+---
+
+## Social network
+
+![Who Dated Whom in Friends](datingfriends.pdf){fig-align="center" width="70%"}
+
+
+## Write-Up
+
+This network is interesting because it is simple but still looks a little complicated. Pheobe is on an island but it is funny that everyone else is connected through the main characters. That was originally hard to see on my basic plot because the main characters were not larger than anyone else. 
